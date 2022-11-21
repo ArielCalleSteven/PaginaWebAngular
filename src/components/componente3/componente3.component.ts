@@ -17,6 +17,6 @@ export class Componente3Component implements OnInit {
 
   navegar3()
   {
-this.pro.navigate([])
+this.pro.navigate([''])
   }
 }
